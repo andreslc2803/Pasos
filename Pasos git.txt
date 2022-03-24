@@ -1,0 +1,20 @@
+
+NOTA: tener los archivos listos 
+
+1. git init 
+
+2. git status 
+
+3. git add .
+
+NOTA: en este paso se crea el repositorio en github
+
+4. git status (aqui se verifica que todo este en verde)
+
+5. git commit -m "comentario"
+
+6. git branch -M main
+
+7. git remote add origin "URL_del_repositorio_github"
+
+8. git push -u origin main
